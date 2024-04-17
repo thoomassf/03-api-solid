@@ -23,5 +23,3 @@ describe("Create Gym Use Case", () => {
     expect(gym.id).toEqual(expect.any(String));
   });
 });
-
-// -23.5578339,-46.6634708
